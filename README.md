@@ -105,5 +105,3 @@ This project emphasized the importance of balancing technical analysis with huma
 Updated: October 2024
 
 ---
-
-> _"Preparing for influenza season isn't just about predicting the virus—it's about preparing systems and staff to save lives."_  
