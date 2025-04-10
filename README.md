@@ -20,6 +20,7 @@ This project, created by **Paul Maden**, aims to inform strategic healthcare sta
 - U.S. Census Bureau population demographics
 - Peer-reviewed journal articles on influenza impacts and staffing models
 - Tableau dashboards and visual storytelling
+- Taken for the CareerFoundry course
 
 ---
 
