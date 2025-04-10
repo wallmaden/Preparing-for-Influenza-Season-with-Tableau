@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project, created by **Paul Maden**, aims to inform strategic healthcare staffing decisions during the influenza season across the United States. Leveraging CDC and WHO data, as well as U.S. Census statistics, the analysis identifies high-risk areas and recommends timely deployment of medical personnel to mitigate flu-related hospitalizations and deaths.
+
 ![Tableau Icon](https://raw.githubusercontent.com/wallmaden/Preparing-for-Influenza-Season-with-Tableau/main/06%20Assets/Tableau%20icon.png)
 ## Objective
 
