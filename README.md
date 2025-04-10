@@ -41,6 +41,20 @@ This project, created by **Paul Maden**, aims to inform strategic healthcare sta
 
 ---
 
+## Learning Reflections
+
+Throughout this project, several key takeaways emerged:
+
+- **Data Complexity:** Real-world health data often includes inconsistencies, reporting lags, and gaps—requiring data cleaning and validation strategies.
+- **Statistical Rigor:** Hypothesis testing and correlation analysis provided meaningful insights beyond surface-level trends.
+- **Communication:** Presenting complex analyses to non-technical stakeholders required effective data storytelling using visual tools like Tableau.
+- **Limitations Matter:** Recognizing and transparently reporting data limitations is essential for credibility and future work.
+- **Adaptive Planning:** Real-time and granular data would enable more dynamic healthcare staffing models, an important lesson for future projects.
+
+This project emphasized the importance of balancing technical analysis with human-centered outcomes.
+
+---
+
 ## Future Recommendations
 
 1. **Granular Data Access:** City-level and weekly data would support real-time resource adjustments.
